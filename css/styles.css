@@ -1,0 +1,19 @@
+body {
+  background-color: #c6f1e7;
+}
+
+hr {
+  border-color: gray;
+  border-style: dotted none none;
+  border-width: 7px;
+  height: 0;
+  width: 8%;
+}
+
+h1,h2,h3 {
+  color: #66bfbf;
+}
+
+h1 {
+  font-style: italic;
+}
